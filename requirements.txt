@@ -3,3 +3,4 @@ PyQt6-Qt6==6.5.3
 PyQt6-sip
 openai==0.28.1
 requests==2.31.0
+pyinstaller
